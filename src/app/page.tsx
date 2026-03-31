@@ -46,7 +46,7 @@ export default function LandingPage() {
               { text: "Call Us", href: "tel:6162438066" },
               { text: "Get Directions", href: "https://maps.google.com" }
             ]}
-            imageSrc="http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=1"
             imageAlt="Sullivan's showroom display"
             avatars={[
               { src: "http://img.b2bpic.net/free-photo/close-up-beautiful-joyful-african-student-woman-with-dark-wavy-hair-green-cardigan-sitting-cafe-drinking-cup-coffee-smiling-camera-woman-waiting-her-boyfriend-after-university_176420-12329.jpg", alt: "Customer 1" },
@@ -83,10 +83,10 @@ export default function LandingPage() {
             useInvertedBackground={false}
             testimonials={[
               { id: "1", name: "D Grimm", handle: "Local Guide", testimonial: "Their furniture is fantastic for the price. We bought 2 sectionals and both are high quality with no sign of wear after 4 years.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/close-up-beautiful-joyful-african-student-woman-with-dark-wavy-hair-green-cardigan-sitting-cafe-drinking-cup-coffee-smiling-camera-woman-waiting-her-boyfriend-after-university_176420-12329.jpg" },
-              { id: "2", name: "Kat Finch", handle: "Local Guide", testimonial: "Great selection and prices. William installed the carpet perfectly—flawless cuts between the bedroom, hallway, and stairs.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg" },
+              { id: "2", name: "Kat Finch", handle: "Local Guide", testimonial: "Great selection and prices. William installed the carpet perfectly—flawless cuts between the bedroom, hallway, and stairs.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg?_wi=1" },
               { id: "3", name: "Robert Brouwer", handle: "Local Guide", testimonial: "Jeff is awesome, and they have a lot to choose from. He quoted us efficiently and the measurements were spot on.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-young-businessman-looking-camera_23-2147839978.jpg" },
               { id: "4", name: "Mary Frei", handle: "Local Guide", testimonial: "Jeff was very helpful finding the right carpet for our new home. They probably have the most choices in the world!", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-employees-talking-laughing-workplace_74855-4008.jpg" },
-              { id: "5", name: "Sarah Jenkins", handle: "Homeowner", testimonial: "The installation team was incredibly respectful and efficient. Highly recommend!", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg" }
+              { id: "5", name: "Sarah Jenkins", handle: "Homeowner", testimonial: "The installation team was incredibly respectful and efficient. Highly recommend!", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg?_wi=2" }
             ]}
             showRating={true}
             title="What Our Community Says"
@@ -103,7 +103,7 @@ export default function LandingPage() {
               { id: "f2", title: "Where is your store located?", content: "We are located at 1860 28th St SE, Grand Rapids, MI 49508." },
               { id: "f3", title: "What are your business hours?", content: "We are open daily. Our store closes at 6:00 PM." }
             ]}
-            imageSrc="http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg"
+            imageSrc="http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=1"
             imageAlt="Our carpet installation work"
             mediaAnimation="slide-up"
             faqsAnimation="slide-up"
@@ -121,11 +121,11 @@ export default function LandingPage() {
             title="Featured Collections"
             description="Explore our curated selection of high-quality flooring and living room essentials."
             products={[
-              { id: "p1", name: "Plush Wool Carpet", price: "$4.99/sq ft", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg" },
-              { id: "p2", name: "Classic Leather Sofa", price: "$1,299.00", imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg" },
-              { id: "p3", name: "Modern Area Rug", price: "$299.00", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg" },
-              { id: "p4", name: "Modular Sectional", price: "$1,850.00", imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg" },
-              { id: "p5", name: "Durable Nylon Flooring", price: "$3.50/sq ft", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg" }
+              { id: "p1", name: "Plush Wool Carpet", price: "$4.99/sq ft", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=2" },
+              { id: "p2", name: "Classic Leather Sofa", price: "$1,299.00", imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=2" },
+              { id: "p3", name: "Modern Area Rug", price: "$299.00", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=3" },
+              { id: "p4", name: "Modular Sectional", price: "$1,850.00", imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=3" },
+              { id: "p5", name: "Durable Nylon Flooring", price: "$3.50/sq ft", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=4" }
             ]}
           />
         </div>
