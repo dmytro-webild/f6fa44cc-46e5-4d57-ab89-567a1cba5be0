@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "https://maps.google.com",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=1"
       imageAlt="Sullivan's showroom display"
       avatars={[
         {
@@ -147,7 +147,7 @@ export default function LandingPage() {
           handle: "Local Guide",
           testimonial: "Great selection and prices. William installed the carpet perfectly—flawless cuts between the bedroom, hallway, and stairs.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg?_wi=1",
         },
         {
           id: "3",
@@ -171,7 +171,7 @@ export default function LandingPage() {
           handle: "Homeowner",
           testimonial: "The installation team was incredibly respectful and efficient. Highly recommend!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/african-student-passed-exams-having-fun-with-university-mates-international-office-workers-discussing-about-new-company-goals_197531-3749.jpg?_wi=2",
         },
       ]}
       showRating={true}
@@ -201,7 +201,7 @@ export default function LandingPage() {
           content: "We are open daily. Our store closes at 6:00 PM.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=1"
       imageAlt="Our carpet installation work"
       mediaAnimation="slide-up"
       title="Common Questions"
@@ -222,31 +222,31 @@ export default function LandingPage() {
           id: "p1",
           name: "Plush Wool Carpet",
           price: "$4.99/sq ft",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Classic Leather Sofa",
           price: "$1,299.00",
-          imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "Modern Area Rug",
           price: "$299.00",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=3",
         },
         {
           id: "p4",
           name: "Modular Sectional",
           price: "$1,850.00",
-          imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=3",
         },
         {
           id: "p5",
           name: "Durable Nylon Flooring",
           price: "$3.50/sq ft",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=4",
         },
       ]}
     />
