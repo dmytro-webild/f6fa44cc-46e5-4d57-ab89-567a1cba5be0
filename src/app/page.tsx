@@ -120,6 +120,7 @@ export default function LandingPage() {
             useInvertedBackground={false}
             title="Featured Collections"
             description="Explore our curated selection of high-quality flooring and living room essentials."
+            buttons={[{ text: "View Full Catalog", href: "/catalog" }]}
             products={[
               { id: "p1", name: "Plush Wool Carpet", price: "$4.99/sq ft", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=2" },
               { id: "p2", name: "Classic Leather Sofa", price: "$1,299.00", imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=2" },
