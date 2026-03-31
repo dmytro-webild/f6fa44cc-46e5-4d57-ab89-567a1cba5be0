@@ -31,7 +31,8 @@ export default function LandingPage() {
               { name: "Home", id: "hero" },
               { name: "About Us", id: "about" },
               { name: "Reviews", id: "testimonials" },
-              { name: "FAQ", id: "faq" }
+              { name: "FAQ", id: "faq" },
+              { name: "Photos", id: "photos" }
             ]}
             brandName="Sullivan's Carpet & Furniture"
           />
@@ -110,6 +111,10 @@ export default function LandingPage() {
             title="Common Questions"
             description="Have questions about our installation process or store hours? We're here to help. Our showroom is open daily from 9 AM to 6 PM."
           />
+        </div>
+
+        <div id="photos" data-section="photos" style={{ display: 'none' }}>
+            <a href="https://www.facebook.com/Sullivanscarpet/photos">Photos</a>
         </div>
 
         <div id="product" data-section="product">
