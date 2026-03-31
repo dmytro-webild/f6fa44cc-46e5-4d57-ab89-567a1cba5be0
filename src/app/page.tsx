@@ -115,7 +115,7 @@ export default function LandingPage() {
         <div id="product" data-section="product">
           <ProductCardThree
             animationType="slide-up"
-            textboxLayout="default"
+            textboxLayout="split-description"
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={false}
             title="Featured Collections"
