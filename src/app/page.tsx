@@ -108,7 +108,7 @@ export default function LandingPage() {
             mediaAnimation="slide-up"
             faqsAnimation="slide-up"
             title="Common Questions"
-            description="Have questions about our installation process or store hours? We're here to help."
+            description="Have questions about our installation process or store hours? We're here to help. Our showroom is open daily from 9 AM to 6 PM."
           />
         </div>
 
@@ -119,8 +119,11 @@ export default function LandingPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={false}
             title="Featured Collections"
-            description="Explore our curated selection of high-quality flooring and living room essentials."
-            buttons={[{ text: "View Full Catalog", href: "/catalog" }]}
+            description="Explore our curated selection of high-quality flooring and living room essentials. Visit our showroom daily from 9 AM to 6 PM to see our full catalog."
+            buttons={[
+              { text: "View Full Catalog", href: "/catalog" },
+              { text: "Visit Store", href: "https://maps.google.com" }
+            ]}
             products={[
               { id: "p1", name: "Plush Wool Carpet", price: "$4.99/sq ft", imageSrc: "http://img.b2bpic.net/free-photo/close-up-wool-texture-design_23-2149503227.jpg?_wi=2" },
               { id: "p2", name: "Classic Leather Sofa", price: "$1,299.00", imageSrc: "http://img.b2bpic.net/free-photo/person-working-embroidery-workshop_23-2148970775.jpg?_wi=2" },
